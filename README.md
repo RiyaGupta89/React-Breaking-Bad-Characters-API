@@ -12,11 +12,12 @@ then cd into the project
 
 ```cd project-name```
 
-Then ### `npm start`
+Next step is to run
+### `npm start`
 
 to run the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Preview: 
-
+## Preview: 
+ 
 ![21](https://user-images.githubusercontent.com/72425181/146145802-b106da82-6282-4bc7-b744-25fd7d6e0c2c.png)
